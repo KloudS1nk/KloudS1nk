@@ -28,16 +28,17 @@
   <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 <h2 align="center"> 🔨 Recent Projects </h2>
-#### 切版練習
-##### 
+<h4> 切版練習 </h4>
+<h5>
 - 使用<img height="20" width="20" src="https://cdn.simpleicons.org/HTML5" />HTML5、<img height="20" width="20" src="https://cdn.simpleicons.org/CSS3" />CSS3臨摹拍謝少年官網
 - 使用<img height="20" width="20" src="https://cdn.simpleicons.org/Bootstrap" />Bootstrap實現RWD功能
 - [到GitHub看我的程式碼](https://github.com/KloudS1nk/css-practice)
 - [直接看頁面](https://klouds1nk.github.io/css-practice/)
 <img src="https://i.imgur.com/6cJ3UTA.jpg">
 <img src="https://i.imgur.com/pBynCs0.jpg">
-#### 資展國際前端班專題
-##### 
+   </h5>
+<h4> 資展國際前端班專題 </h4>
+<h5> 
 - 使用前端框架<img height="20" width="20" src="https://cdn.simpleicons.org/React" /> React、 <img height="20" width="20" src="https://cdn.simpleicons.org/Sass" /> SCSS
 - 後端使用 <img height="20" width="20" src="https://cdn.simpleicons.org/Node.js" /> Node.js 串接 <img height="20" width="20" src="https://cdn.simpleicons.org/MySQL" /> MySQL資料庫，並開發 API 供前端使用
 - 透過 <img height="20" width="20" src="https://cdn.simpleicons.org/GitHub" /> github 協同專案進行
@@ -47,6 +48,7 @@
 <img src="https://i.imgur.com/qGtgkSP.png">
 <img src="https://i.imgur.com/PyQfbY6.png">
 <img src="https://i.imgur.com/dz8c9Lj.png">
+   </h5>
 
 
 
