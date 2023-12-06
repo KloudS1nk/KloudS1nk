@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 🖖, I'm Tsai Yun Cheng </h1>
 
-- 🎓 I'm curently graduated from [iSpan](https://www.ispan.com.tw/)
+- 🎓 I'm curently learning React
 - 📬︎ How to reach me **acidman1127@gmail.com**
 <br>
 <h2 align="center"> 📚 Things I've Learned </h2>
@@ -26,29 +26,48 @@
   <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 <h2 align="center"> 🔨 Recent Projects </h2>
-<h4> 切版練習 </h4>
+<h4> 網站製作實戰 </h4>
+<h5> 源做視覺-京淇品牌整合行銷 </h5>
 
-- 使用<img height="20" width="20" src="https://cdn.simpleicons.org/HTML5" />HTML5、<img height="20" width="20" src="https://cdn.simpleicons.org/CSS3" />CSS3臨摹拍謝少年官網
-- 使用<img height="20" width="20" src="https://cdn.simpleicons.org/Bootstrap" />Bootstrap實現RWD功能
-- [到GitHub看我的程式碼](https://github.com/KloudS1nk/css-practice)
-- [直接看頁面](https://klouds1nk.github.io/css-practice/)
-<img src="https://i.imgur.com/6cJ3UTA.jpg">
-<img src="https://i.imgur.com/pBynCs0.jpg">
+- 使用 PHP <img height="20" width="20" src="https://cdn.simpleicons.org/PHP" />引入共通元件（例如 Header），確保網站各頁面保持一致性並提升易維護性。
+- 運用 jQuery <img height="20" width="20" src="https://cdn.simpleicons.org/jQuery" />和 SCSS<img height="20" width="20" src="https://cdn.simpleicons.org/sass" /> 技術，突顯個性化動態效果，提升網站的視覺吸引力和使用者互動性。
+- 負責將 Photoshop 設計轉化為網站成品，展現出良好的設計與開發對接能力。
+- 整合 Swiper <img height="20" width="20" src="https://cdn.simpleicons.org/swiper" />套件，同時平衡頁面性能和互動性。
+- 使用 Notion<img height="20" width="20" src="https://cdn.simpleicons.org/notion" /> 紀錄專案進度，有系統地追蹤和管理專案的各個階段和進展，確保團隊成員之間的透明度和協作性。
+- 在 GitHub 上管理專案代碼，方便版本控制和團隊協作，有效地追蹤變更和管理代碼庫。
+- [到 GitHub 看我的程式碼](https://github.com/KloudS1nk/MAK-jcb)
+  <img src="https://imgur.com/ecwuEOd.png">
+  <img src="https://imgur.com/a2p46bf.png">
+  <img src="https://imgur.com/lsLvp8a.png">
+
+<h5> 源做視覺-寶僑 </h5>
+
+- 獨立完成前端動態效果與字體的應用，利用 jQuery 實現動態效果，提升使用者體驗。整合 JustFont，突顯獨特設計風格，並選擇最適合的字體，以增強網站的互動性和視覺吸引力。
+- 管理和配置專案中的 Google Tag Manager，涵蓋跟踪碼、標籤及分析工具的設定。包括跟踪碼的嵌入、自訂標籤功能的設計和配置，熟悉設定標籤觸發條件、事件追踪，並測試標籤功能的正確運作。
+- 負責網站無障礙性優化，包括為視覺障礙者選擇友好的色彩、優化鍵盤導航和內容結構，確保網站對所有用戶易於訪問和理解。
+- [到 GitHub 看我的程式碼](https://github.com/KloudS1nk/MAK-PG)
+  <img src="https://imgur.com/eDKrdh7.png">
+  <img src="https://imgur.com/MXhdwjd.png">
 
 <h4> 資展國際前端班專題 </h4>
 
 - 使用前端框架<img height="20" width="20" src="https://cdn.simpleicons.org/React" /> React、 <img height="20" width="20" src="https://cdn.simpleicons.org/Sass" /> SCSS
-- 後端使用 <img height="20" width="20" src="https://cdn.simpleicons.org/Node.js" /> Node.js 串接 <img height="20" width="20" src="https://cdn.simpleicons.org/MySQL" /> MySQL資料庫，並開發 API 供前端使用
+- 後端使用 <img height="20" width="20" src="https://cdn.simpleicons.org/Node.js" /> Node.js 串接 <img height="20" width="20" src="https://cdn.simpleicons.org/MySQL" /> MySQL 資料庫，並開發 API 供前端使用
 - 透過 <img height="20" width="20" src="https://cdn.simpleicons.org/GitHub" /> github 協同專案進行
-- [到GitHub看我的程式碼](https://github.com/KloudS1nk/event-react)
+- [到 GitHub 看我的程式碼](https://github.com/KloudS1nk/event-react)
 <img src="https://i.imgur.com/dd14Q32.png">
 <img src="https://i.imgur.com/jEjkiHX.png">
 <img src="https://i.imgur.com/qGtgkSP.png">
 <img src="https://i.imgur.com/PyQfbY6.png">
 <img src="https://i.imgur.com/dz8c9Lj.png">
-  
+  <h4> 切版練習 </h4>
 
-
+- 使用<img height="20" width="20" src="https://cdn.simpleicons.org/HTML5" />HTML5、<img height="20" width="20" src="https://cdn.simpleicons.org/CSS3" />CSS3 臨摹拍謝少年官網
+- 使用<img height="20" width="20" src="https://cdn.simpleicons.org/Bootstrap" />Bootstrap 實現 RWD 功能
+- [到 GitHub 看我的程式碼](https://github.com/KloudS1nk/css-practice)
+- [直接看頁面](https://klouds1nk.github.io/css-practice/)
+  <img src="https://i.imgur.com/6cJ3UTA.jpg">
+  <img src="https://i.imgur.com/pBynCs0.jpg">
 
 <h2 align="center">🏆 My Github Trophy 🏆</h2>
 <p align="center">
