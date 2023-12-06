@@ -38,7 +38,7 @@
 - [到 GitHub 看我的程式碼](https://github.com/KloudS1nk/MAK-jcb)
   <img src="https://imgur.com/ecwuEOd.png">
   <img src="https://imgur.com/a2p46bf.png">
-  <img width="50%" src="https://imgur.com/lsLvp8a.png">
+  <img width="50%"  src="https://imgur.com/lsLvp8a.png">
 
 <h5> 源做視覺-寶僑 </h5>
 
@@ -46,8 +46,9 @@
 - 管理和配置專案中的 Google Tag Manager，涵蓋跟踪碼、標籤及分析工具的設定。包括跟踪碼的嵌入、自訂標籤功能的設計和配置，熟悉設定標籤觸發條件、事件追踪，並測試標籤功能的正確運作。
 - 負責網站無障礙性優化，包括為視覺障礙者選擇友好的色彩、優化鍵盤導航和內容結構，確保網站對所有用戶易於訪問和理解。
 - [到 GitHub 看我的程式碼](https://github.com/KloudS1nk/MAK-PG)
-  <img src="https://imgur.com/eDKrdh7.png">
-  <img src="https://imgur.com/MXhdwjd.png">
+  
+  <img width="60%" src="https://imgur.com/eDKrdh7.png">
+  <img width="60%" src="https://imgur.com/MXhdwjd.png">
 
 <h4> 資展國際前端班專題 </h4>
 
