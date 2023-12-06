@@ -38,7 +38,7 @@
 - [到 GitHub 看我的程式碼](https://github.com/KloudS1nk/MAK-jcb)
   <img src="https://imgur.com/ecwuEOd.png">
   <img src="https://imgur.com/a2p46bf.png">
-  <img src="https://imgur.com/lsLvp8a.png">
+  <img width="50%" src="https://imgur.com/lsLvp8a.png">
 
 <h5> 源做視覺-寶僑 </h5>
 
